@@ -50,4 +50,12 @@ This part of the code deals with loading an image, preprocessing it, and perform
 ![image](https://github.com/AliAmini93/SMA-Breast-Tumor-Segmentation/assets/96921261/83a4010f-ae57-47e5-b5a4-650ac4a26e5f)
 ![image](https://github.com/AliAmini93/SMA-Breast-Tumor-Segmentation/assets/96921261/fa07e4d1-8e63-4aa0-887d-1e12cb215dce)
 
+## Fine Tuning the SAM for Breast Cancer Segmentation 
+
+This segment of the code handles the downloading and initial preparation of the Breast Cancer dataset.
+
+### Key Actions:
+- **Dataset Acquisition:** The Breast Cancer dataset is extracted. It is assumed to be in a compressed `.tar.gz` format.
+- **Path Loading:** The paths for all images and their corresponding labels within the dataset are loaded. 
+
 
