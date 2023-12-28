@@ -36,3 +36,18 @@ This section of the code involves initializing the SAM model and defining a seri
 
 This set of functions forms the backbone of our visualization strategy, allowing us to effectively present and analyze the model's outputs.
 
+## Image Loading, Preprocessing, and Segmentation
+
+This part of the code deals with loading an image, preprocessing it, and performing segmentation using SAM.
+
+### Steps Involved:
+- **Image Loading:** An image is loaded from a URL for segmentation tasks.
+- **Point Visualization:** Specific points are visualized on the image, which acts as prompts for the SAM model.
+- **Preprocessing:** The SAM processor is used to preprocess the image and the points.
+- **Segmentation:** The SAM model performs the segmentation based on the processed inputs.
+- **Result Visualization:** The segmented masks along with their Intersection Over Union (IOU) scores are displayed on the image.
+
+![image](https://github.com/AliAmini93/SMA-Breast-Tumor-Segmentation/assets/96921261/83a4010f-ae57-47e5-b5a4-650ac4a26e5f)
+![image](https://github.com/AliAmini93/SMA-Breast-Tumor-Segmentation/assets/96921261/fa07e4d1-8e63-4aa0-887d-1e12cb215dce)
+
+
