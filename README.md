@@ -24,3 +24,15 @@ SAM's training enables it to generate valid masks for a wide range of prompts, e
 ## Application in Breast Cancer Segmentation:
 In this project, SAM is applied to the challenging domain of **Breast Tumor diagnosis**. By segmenting medical images from the Breast Cancer [dataset](https://huggingface.co/datasets/nielsr/breast-cancer), SAM plays a crucial role in identifying and delineating cancerous tissues.
 
+## Model Initialization and Visualization Functions
+
+This section of the code involves initializing the SAM model and defining a series of functions for various visualization tasks.
+
+### Initialization:
+- **SAM Model and Processor:** We initialize the SAM model and its processor, which are crucial for handling the segmentation tasks.
+
+### Visualization Functions:
+- **Display Functions:** A series of functions (`display_mask`, `display_box`, `display_boxes_on_img`, etc.) are defined to visualize the segmentation results. These functions are used to overlay masks, bounding boxes, and points over the images, providing a clear view of the model's segmentation capabilities.
+
+This set of functions forms the backbone of our visualization strategy, allowing us to effectively present and analyze the model's outputs.
+
