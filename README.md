@@ -110,7 +110,7 @@ We initialize the SAM model and define the training step function, which is inte
 
 ## Model Training and Inference
 
-The concluding part of our workflow involves training the SAM model and using it for inference on a new image.
+The concluding part of our workflow involves training the [sam-vit-large model](https://huggingface.co/facebook/sam-vit-large) and using it for inference on a new image.
 
 ### Training:
 - **Loop Over Epochs:** The model undergoes training for a predefined number of epochs.
@@ -124,7 +124,11 @@ The concluding part of our workflow involves training the SAM model and using it
 
 This final step demonstrates the practical application of the trained SAM model in segmenting and analyzing new images.
 
+![image](https://github.com/AliAmini93/SMA-Breast-Tumor-Segmentation/assets/96921261/84b0ab6d-7bb8-4805-8abf-5646a783dc0c)
 
+## Acknowledgements
+
+A heartfelt thank you to [Sayak Paul](https://twitter.com/RisingSayak) for his invaluable contribution and insight.
 
 
 
