@@ -9,7 +9,8 @@ The **Segment Anything Model (SAM)**, a novel creation by researchers from Meta,
 ### SAM at a Glance
 SAM redefines segmentation tasks with its ability to process prompts that range from points, free text, and boxes, to masks. It's designed to cater to an array of segmentation tasks like semantic segmentation and edge detection, all through intuitive prompting.
 
-![image](https://github.com/AliAmini93/SMA-Breast-Tumor-Segmentation/assets/96921261/33ed7c12-75db-48ab-91b3-727f12231d78)*Image Source: SAM Paper*
+![image](https://github.com/AliAmini93/SMA-Breast-Tumor-Segmentation/assets/96921261/33ed7c12-75db-48ab-91b3-727f12231d78)
+*Image Source: SAM Paper*
 
 ### Key Components of SAM:
 - **Image Encoder:** Computes image embeddings. It's used once per image due to its computational intensity.
