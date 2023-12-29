@@ -128,7 +128,7 @@ This final step demonstrates the practical application of the trained SAM model 
 
 ## Acknowledgements
 
-A heartfelt thank you to [Sayak Paul](https://twitter.com/RisingSayak) for his invaluable contribution and insight.
+This project benefited from the insightful notebooks created by [Niels Rogge](https://github.com/NielsRogge/Transformers-Tutorials/blob/master/SAM/Fine_tune_SAM_(segment_anything)_on_a_custom_dataset.ipynb) and [Younes Belkada](https://github.com/huggingface/notebooks/blob/main/examples/segment_anything.ipynb).
 
 
 
