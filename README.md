@@ -1,4 +1,4 @@
-# SMA Breast Tumor Segmentation
+# Segment Anything Model (SAM) For Breast Tumor Segmentation
 ## Introduction to SAM
 
 The **Segment Anything Model (SAM)** is a cutting-edge segmentation model capable of handling diverse and complex segmentation tasks. Its versatility and accuracy make it suitable for a wide range of applications, especially in fields requiring precise delineation of features within images.
