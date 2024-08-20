@@ -128,7 +128,7 @@ This final step demonstrates the practical application of the trained SAM model 
 
 ## Acknowledgements
 
-This notebook benefited from the insights from [Niels Rogge]() and [Younes Belkada]().
+This notebook benefited from the insights from [Niels Rogge](https://x.com/NielsRogge) and [Younes Belkada](https://x.com/younesbelkada).
 
 
 
