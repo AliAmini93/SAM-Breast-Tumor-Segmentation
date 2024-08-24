@@ -130,6 +130,9 @@ This final step demonstrates the practical application of the trained SAM model 
 
 This notebook benefited from the insights from [Niels Rogge](https://x.com/NielsRogge) and [Younes Belkada](https://x.com/younesbelkada).
 
+## Author
+- **Ali Amini**
+- **GitHub Repo**: [Repo Adress](https://github.com/AliAmini93/SAM-Breast-Tumor-Segmentation) 
 
 
 
